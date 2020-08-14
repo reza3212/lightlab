@@ -1,5 +1,4 @@
 import numpy as np
-# import
 import matplotlib.pyplot as plt
 from lightlab.util.sweep import NdSweeper, peakSearch
 
